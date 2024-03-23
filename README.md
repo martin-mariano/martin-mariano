@@ -1,4 +1,4 @@
-Mariano Martín (@martinmariano91). 
+Mariano Martín (@martin-mariano). 
 
 Español. Lic. en Cs. Biológicas y Doctor en Cs. Químicas. Interés: aplicar métodos/técnicas de ciencia de datos y bioinformática para resolver problemas de índole biólogico (principalmente)
 
