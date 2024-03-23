@@ -1,8 +1,8 @@
 Mariano Martín (@martin-mariano). 
 
-Español. Lic. en Cs. Biológicas y Doctor en Cs. Químicas. Interés: aplicar métodos/técnicas de ciencia de datos y bioinformática para resolver problemas de índole biólogico (principalmente)
+Lic. en Cs. Biológicas y Doctor en Cs. Químicas. Interés: aplicar métodos/técnicas de ciencia de datos y bioinformática para resolver problemas de índole biólogico (principalmente)
 
-English. Bs. Biological Sciences and PhD in Chemistry. Aim: to apply data science and bioinformatic methods to solve biological problems (mainly).
+Bs. Biological Sciences and PhD in Chemistry. Aim: to apply data science and bioinformatic methods to solve biological problems (mainly).
 
 
 <!---
